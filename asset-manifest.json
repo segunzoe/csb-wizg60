@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://segunzoe.github.io/csb-wizg60/static/js/main.2f33f6d2.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-wizg60/static/js/main.2f33f6d2.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-wizg60/static/js/runtime-main.1716dfd4.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-wizg60/static/js/runtime-main.1716dfd4.js.map",
+    "static/js/2.1945ea7d.chunk.js": "https://segunzoe.github.io/csb-wizg60/static/js/2.1945ea7d.chunk.js",
+    "static/js/2.1945ea7d.chunk.js.map": "https://segunzoe.github.io/csb-wizg60/static/js/2.1945ea7d.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-wizg60/index.html",
+    "precache-manifest.913087213f6d7314ab72771e9012c873.js": "https://segunzoe.github.io/csb-wizg60/precache-manifest.913087213f6d7314ab72771e9012c873.js",
+    "service-worker.js": "https://segunzoe.github.io/csb-wizg60/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1716dfd4.js",
+    "static/js/2.1945ea7d.chunk.js",
+    "static/js/main.2f33f6d2.chunk.js"
+  ]
+}
